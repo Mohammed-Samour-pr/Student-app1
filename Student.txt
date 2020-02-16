@@ -1,0 +1,6 @@
+Student{id=120181466, name=Mohammed_3, major=IT, grade=4690.0}
+Student{id=120181204, name=Ali_1, major=IT, grade=3479.6}
+Student{id=120181204, name=Ali_3, major=IT, grade=3019.1}
+Student{id=120181204, name=Ali_2, major=IT, grade=2962.6}
+Student{id=120181466, name=Mohammed_1, major=IT, grade=2676.0}
+Student{id=120181466, name=Mohammed_2, major=IT, grade=530.6}
